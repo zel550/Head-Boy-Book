@@ -88,5 +88,6 @@ One relationship of real mutuality — the book's emotional center outside the f
 
 ## What's drafted vs. outlined only
 
-- **Drafted, full prose:** Book One (Ch. 1–3, your original text, unchanged) and Book Two (Ch. 4–9, new prose written this pass).
-- **Outlined only, ready to draft next:** Books Three, Four, and Five (Ch. 10–24), per the beats above.
+- **Drafted, full prose, all 24 chapters:** Book One (Ch. 1–3, your original text, unchanged), Book Two (Ch. 4–9), Book Three (Ch. 10–14), Book Four (Ch. 15–19), and Book Five (Ch. 20–24). The full first draft is complete in `manuscript/`.
+- **Named characters as actually used in the draft:** Pete Munro (road mentor), Silas Boyd (the barn), the sheriff and townspeople of Loman's Fork, Vesta Coombs (the widow), Reverend Tobias Crane and his hired man Purdy (Book Three's antagonists, and the return threat in Book Five), Ruth Calloway and her landlady Mrs. Ordway (Book Four). Wendell's parents remain unnamed throughout, as in the original chapters.
+- **Next natural passes, if wanted:** a full continuity/consistency read of the completed draft (timeline, recurring details, the "monster" label's evolution chapter to chapter); a line-edit pass against the craft report's pitfalls (aphorism-ending fatigue, the triadic-list tic); and the sensitivity read flagged in `00-project-plan.md` §6, which should now happen against the complete manuscript, including the ending, rather than against early chapters alone.

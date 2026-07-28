@@ -106,4 +106,10 @@ Full detail in `illustrations/00-style-bible.md`. Headline decisions:
 
 ## 8. Status & Next Steps
 
-Done in this pass: this plan, the full 24-chapter outline, the illustration style bible with per-chapter prompt notes for all 24 chapters, and drafted prose for **Book One (existing, unchanged) + Book Two (Chapters 4–9, new).** Books Three through Five (Chapters 10–24) are fully outlined but not yet drafted in prose — flagged clearly in the outline file so nothing is lost, ready to draft in follow-up passes.
+The full first draft is now complete: this plan, the full 24-chapter outline, the illustration style bible with per-chapter prompt notes for all 24 chapters, and drafted prose for **all five books, Chapters 1–24**, in `manuscript/`. Book One is your original text, unchanged; Books Two through Five (Chapters 4–24) are new prose completing Wendell's arc — the road, Crane's exhibition tent and the moral break with him, Ruth Calloway and the mill town, Crane's return and the reckoning, and the final return home and closing chapter.
+
+**Recommended next passes, in order:**
+1. **A full read-through for continuity** — timeline (ages, elapsed time), recurring details (the knife lost in Ch. 7, the sock of savings, Munro's and Vesta's brief appearances), and whether the "monster" label's evolution reads as dramatized rather than asserted across all 24 chapters, per the craft report.
+2. **A line-edit pass** against the craft pitfalls flagged early on: watch for the closing-aphorism tic and the "learned to X, then Y, then Z" triadic list becoming a mannerism rather than a chosen device by the back half of the book.
+3. **The sensitivity read**, now against the complete manuscript including the ending — this matters more now than at 3 chapters, since the ending is where the book either does or doesn't fully deliver on refusing the "cure" and "inspiration" traps named in §6.
+4. Only after those: illustration production, using the style bible, and a decision on which path-to-market step (§4) to start with.
